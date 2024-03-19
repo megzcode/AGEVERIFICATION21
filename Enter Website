@@ -1,0 +1,11 @@
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-788f4c79-d0ca-4791-bbd4-6f557541175d" 
+     data-text="Are you 21 years or older?" 
+     data-confirm-text="Yes, I'm 21+" 
+     data-deny-text="No, I'm not" 
+     data-redirect-url="https://aakritibeverages.com/" 
+     data-background-color="#ffffff" 
+     data-text-color="#333333" 
+     data-button-background-color="#4CAF50" 
+     data-button-text-color="#ffffff">
+</div>
